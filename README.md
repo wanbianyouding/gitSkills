@@ -1,3 +1,4 @@
 # gitSkills
-Creating a new branch is quickssss.
+
+Creating a new branch is quick & default.
 
